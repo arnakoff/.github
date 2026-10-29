@@ -30,6 +30,10 @@ Arnakoff les réunit en un seul appel, pour que n'importe quelle application, ex
 | [`api`](https://github.com/arnakoff/api) | L'API, la synchronisation des sources et le serveur MCP (Go) | AGPL-3.0 |
 | [`web`](https://github.com/arnakoff/web) | Le site et la documentation de l'API | MIT |
 
+## La feuille de route
+
+Tout le travail est public dans la [feuille de route](https://github.com/orgs/arnakoff/projects/1) : les jalons, des fondations (M0) jusqu'aux offres payantes (M5), puis les épics et les issues de chaque dépôt, avec leur avancement.
+
 ## Les sources prévues
 
 [Liste noire de l'AMF](https://www.data.gouv.fr/datasets/listes-noires-des-entites-non-autorisees-a-proposer-des-produits-ou-services-financiers-en-france) · [Liste noire de l'ACPR](https://www.abe-infoservice.fr/liste-noire) · [SIRENE](https://recherche-entreprises.api.gouv.fr) · [BODACC](https://bodacc-datadila.opendatasoft.com) · RDAP · [Numérotation de l'ARCEP](https://www.arcep.fr)
