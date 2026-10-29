@@ -38,6 +38,10 @@ Tout le travail est public dans la [feuille de route](https://github.com/orgs/ar
 
 [Liste noire de l'AMF](https://www.data.gouv.fr/datasets/listes-noires-des-entites-non-autorisees-a-proposer-des-produits-ou-services-financiers-en-france) · [Liste noire de l'ACPR](https://www.abe-infoservice.fr/liste-noire) · [SIRENE](https://recherche-entreprises.api.gouv.fr) · [BODACC](https://bodacc-datadila.opendatasoft.com) · RDAP · [Numérotation de l'ARCEP](https://www.arcep.fr)
 
+## Code de conduite
+
+Les échanges dans les dépôts d'Arnakoff suivent notre [code de conduite](https://github.com/arnakoff/.github/blob/main/CODE_OF_CONDUCT.md), adapté du _Contributor Covenant_ 3.0.
+
 ## Signaler une faille
 
 Utilise le [signalement privé de vulnérabilités](https://github.com/arnakoff/api/security/advisories/new) du dépôt `api`. Merci de ne pas ouvrir d'issue publique pour une faille de sécurité.
